@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Yunseong Lee
-title: Senior Network System Administrator
+name: Dr. Yunseong Lee
+title: Wireless mobile communication researcher
 email: yslee@uclab.re.kr
-website: www.github.com/sproogen/resume-theme
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+#github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: uclab sicte
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://uclab.re.kr/yslee.html
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I received B.S, M.S., and Ph.D. degrees in computer science in 2013, 2015, and 2025, respectively, from the Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
+  My current research interests include 5G/6G wireless communication and networks, Internet of Things, handover control, integrating machine learning and wireless networks, and cell-free networks.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
