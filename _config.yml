@@ -48,10 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I received B.S, M.S., and Ph.D. degrees in computer science in 2013, 2015, and 2025, respectively, from the Department of Computer Science and Engineering, Chung-Ang University, Seoul, South Korea.
-  My current research interests include 5G/6G wireless communication and networks, Internet of Things, handover control, integrating machine learning and wireless networks, and cell-free networks.
-
-  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I received my B.S., M.S., and Ph.D. degrees in Computer Science in 2013, 2015, and 2025, respectively, from the Department of Computer Science and Engineering at Chung-Ang University, Seoul, South Korea. 
+  My current research interests include 5G/6G wireless communications and networks, the Internet of Things (IoT), handover control, the integration of machine learning with wireless networks, and cell-free networks.
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
