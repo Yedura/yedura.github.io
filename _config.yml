@@ -50,6 +50,9 @@ about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
   I received my B.S., M.S., and Ph.D. degrees in Computer Science in 2013, 2015, and 2025, respectively, from the Department of Computer Science and Engineering at Chung-Ang University, Seoul, South Korea. 
   My current research interests include 5G/6G wireless communications and networks, the Internet of Things (IoT), handover control, the integration of machine learning with wireless networks, and cell-free networks.
+
+  <mark>Research Area</mark>: Wireless Communications, Cell-Free Networks, Network Optimization, Resource Management, Artificial Intelligence
+
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -61,14 +64,16 @@ content:
         caption: 2017 - 2025
         sub_title: Ph.D in Computer Science and Engineering 
         description: | # this will include new lines to allow paragraphs
-           Thesis: Resource Management in Future Wireless Networks (Advisor: Prof. Sungrae Cho)
+           Thesis: Resource Management in Future Wireless Networks 
+           <mark>Advisor</mark>: Prof. Sungrae Cho
 
       - layout: left
         title: Chung-Ang University
         caption: 2013 - 2015
         sub_title: M.S. in Computer Science and Engineering 
         description: | # this will include new lines to allow paragraphs
-           Thesis: Channel Scheduling Scheme for WiMAX Wireless Backhaul with Directional Antenna (Advisor: Prof. Sungrae Cho)
+           Thesis: Channel Scheduling Scheme for WiMAX Wireless Backhaul with Directional Antenna 
+           <mark>Advisor</mark>: Prof. Sungrae Cho
 
       - layout: left
         title: Chung-Ang University
