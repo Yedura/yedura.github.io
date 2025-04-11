@@ -71,7 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Thesis: Resource Management in Future Wireless Networks 
 
-           <mark>Advisor</mark>: Prof. Sungrae Cho
+           <mark>Advisor</mark> Prof. Sungrae Cho
 
       - layout: left
         title: Chung-Ang University
@@ -80,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Thesis: Channel Scheduling Scheme for WiMAX Wireless Backhaul with Directional Antenna 
 
-           <mark>Advisor</mark>: Prof. Sungrae Cho
+           <mark>Advisor</mark> Prof. Sungrae Cho
 
       - layout: left
         title: Chung-Ang University
@@ -94,7 +94,7 @@ content:
     content:
       - layout: left
         title: Chung-Ang University
-        sub_title: Part0time lecturer
+        sub_title: Part-time lecturer
         caption: 2016 - 2025
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
