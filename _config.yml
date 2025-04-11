@@ -51,7 +51,12 @@ about_content: | # this will include new lines to allow paragraphs
   I received my B.S., M.S., and Ph.D. degrees in Computer Science in 2013, 2015, and 2025, respectively, from the Department of Computer Science and Engineering at Chung-Ang University, Seoul, South Korea. 
   My current research interests include 5G/6G wireless communications and networks, the Internet of Things (IoT), handover control, the integration of machine learning with wireless networks, and cell-free networks.
 
-  <mark>Research Area</mark>: Wireless Communications, Cell-Free Networks, Network Optimization, Resource Management, Artificial Intelligence
+
+  <mark>Research Area</mark>
+  - Wireless Communications
+  - Cell-Free Networks, Network Optimization
+  - Resource Management
+  - Artificial Intelligence
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -65,6 +70,7 @@ content:
         sub_title: Ph.D in Computer Science and Engineering 
         description: | # this will include new lines to allow paragraphs
            Thesis: Resource Management in Future Wireless Networks 
+
            <mark>Advisor</mark>: Prof. Sungrae Cho
 
       - layout: left
@@ -73,6 +79,7 @@ content:
         sub_title: M.S. in Computer Science and Engineering 
         description: | # this will include new lines to allow paragraphs
            Thesis: Channel Scheduling Scheme for WiMAX Wireless Backhaul with Directional Antenna 
+
            <mark>Advisor</mark>: Prof. Sungrae Cho
 
       - layout: left
@@ -95,17 +102,26 @@ content:
 
   
 
-  - title: A Little More About Me
+  - title: Selected Publication
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      
+      - D. Lee, Y. Jeon, Y. Lee, W. Na, and S. Cho, "Energy and Density-Based Stable Election Routing Protocol for Wireless IoT Network," major revision in Elsevier Journal of Network and Computer Applications , (IF 7.7, Top 6.77%)
+      - Y. Lee, C. Song, D. Lee, W. Noh, and S. Cho, "User-Centric Clustering and Beamforming Design for Satellite-Assisted Cell-Free Networks," minor revision in IEEE Transactions on Network Science and Engineering, (IF 6.7, Top 3.86%) 
+      - C. Song, D. Lee, Y. Lee, W. Noh, and S. Cho, "Deep Learning based Energy-Eticient Transmission Control for STAR-RIS aided Cell- Free Massive MIMO Networks," Elsevier ICT Express, vol. 11, no. 11, pp. 341-347, April 2025 (IF 4.1, Top 23.1%) 
+      - Y. Lee, T. Ha, A. Khreishah, W. Noh, and S. Cho, "Delay-Controlled Bidirectional Traffic Setup Scheme to Enhance the Network Coding Opportunity in Real-Time Industrial IoT Networks," IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10559-10574, June 2023. (IF: 10.238, Top 5.48%) 
+      - Y. Lee, A. Masood, W. Noh, and S. Cho, "DQN Based User Association Control in Hierarchical Mobile Edge Computing Systems for Mobile IoT Services," Elsevier Future Generation Computer Systems, vol. 137, pp. 53-69, December 2022. (IF: 7.307, Top 9.09%) 
+      - Y. Lee, S. Jeong, A. Masood, L. Park, N.-N. Dao, and S. Cho, "Trustful Resource Management for Service Allocation in Fog-Enabled Intelligent Transportation Systems," IEEE Access, vol. 8, pp. 147313-147322, August 2020. (IF: 3.476, Top 43%) 
+      - W. Na, S. Jang, Y. Lee, L. Park, N.-N. Dao, and S. Cho, "Frequency Resource Allocation and Interference Management in Mobile Edge Computing for an Internet of Things System," IEEE Internet of Things Journal, vol. 6, no. 3, pp. 4910-4920, June 2019. (IF: 10.238, Top 5.48%) 
+      - W. Na, Y. Lee, N.-N. Dao, D.-N. Vu, A. Masood, and S. Cho, "Directional Link Scheduling for Real-time Data Processing in Smart manufacturing System IEEE Internet of Things Journal, vol. 5, no. 5, pp. 3661-3671, October 2018. (IF: 10.238, Top 5.48%) 
+      - N.-N. Dao, D.-N. Vu, Y. Lee, S. Cho, C. Cho, and H. Kim, "Pattern-Identified Online Task Scheduling in Multi-tier Edge Computing for Industrial IoT Services," Mobile Information Systems, vol. 2018, Article ID 2101206, April 2018. 
+      - W. Na, Y. Lee, J. Eom, S. Cho, and H.-H. Park, "Coexistence Scheme of Licensed-Assisted Access Using Long-Term Evolution and Wireless Local Area Network for Wireless Sensor Networks," International Journal of Distributed Sensor Networks, vol. 13, no.6, June 2017. 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  
+    #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+    #Look at this cool image  
+    #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
