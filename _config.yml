@@ -31,9 +31,9 @@ darkmode: false
 
 # Additional icon links
 additional_links:
-- title: uclab site
+- title: Google scholar
   icon: fas fa-globe
-  url: https://uclab.re.kr/yslee.html
+  url: https://scholar.google.com/citations?hl=ko&user=yPI_QcMAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -105,7 +105,7 @@ content:
       
       - D. Lee, Y. Jeon, <mark>Y. Lee</mark>, W. Na, and S. Cho, "Energy and Density-Based Stable Election Routing Protocol for Wireless IoT Network," in minor revision in Elsevier Journal of Network and Computer Applications, 2025. <mark>IF 7.7</mark> <mark>Top 6.77%</mark>
       - <mark>Y. Lee</mark>, C. Song, D. Lee, W. Noh, and S. Cho, "User-Centric Clustering and Beamforming Design for Satellite-Assisted Cell-Free Networks," to appear in IEEE Transactions on Network Science and Engineering, 2025. <mark>IF 6.7</mark> <mark>Top 3.86%</mark>
-      - C. Song, D. Lee, <mark>Y. Lee</mark>, W. Noh, and S. Cho, "Deep Learning based Energy-Eticient Transmission Control for STAR-RIS aided Cell- Free Massive MIMO Networks," Elsevier ICT Express, vol. 11, no. 11, pp. 341-347, April 2025. <mark>IF 4.1</mark> <mark>Top 23.1%</mark>
+      - C. Song, D. Lee, <mark>Y. Lee</mark>, W. Noh, and S. Cho, "Deep Learning based Energy-Efficient Transmission Control for STAR-RIS aided Cell- Free Massive MIMO Networks," Elsevier ICT Express, vol. 11, no. 11, pp. 341-347, April 2025. <mark>IF 4.1</mark> <mark>Top 23.1%</mark>
       - <mark>Y. Lee</mark>, T. Ha, A. Khreishah, W. Noh, and S. Cho, "Delay-Controlled Bidirectional Traffic Setup Scheme to Enhance the Network Coding Opportunity in Real-Time Industrial IoT Networks," IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10559-10574, June 2023. <mark>IF: 10.238</mark> <mark>Top 5.48%</mark> 
       - <mark>Y. Lee</mark>, A. Masood, W. Noh, and S. Cho, "DQN Based User Association Control in Hierarchical Mobile Edge Computing Systems for Mobile IoT Services," Elsevier Future Generation Computer Systems, vol. 137, pp. 53-69, December 2022. <mark>IF: 7.307</mark> <mark>Top 9.09%</mark>
       - <mark>Y. Lee</mark>, S. Jeong, A. Masood, L. Park, N.-N. Dao, and S. Cho, "Trustful Resource Management for Service Allocation in Fog-Enabled Intelligent Transportation Systems," IEEE Access, vol. 8, pp. 147313-147322, August 2020. <mark>IF: 3.476</mark> <mark>Top 43%</mark>
